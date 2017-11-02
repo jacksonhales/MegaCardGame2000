@@ -1,0 +1,88 @@
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\goblin.jpg
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\logo.png
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\mage.jpg
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\pixie.jpg
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\thief.jpg
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\troll.jpg
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\warrior.jpg
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\MegaCardGame2000.exe.config
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\MegaCardGame2000.exe
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\MegaCardGame2000.pdb
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.csprojResolveAssemblyReference.cache
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\BattleGround.g.cs
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MainWindow.g.cs
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\App.g.cs
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000_MarkupCompile.cache
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000_MarkupCompile.lref
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\BattleGround.baml
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MainWindow.baml
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.g.resources
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.Properties.Resources.resources
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.Resources.resources
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.csproj.GenerateResource.Cache
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.exe
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.pdb
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\goblin.jpg
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\logo.png
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\mage.jpg
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\pixie.jpg
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\thief.jpg
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\troll.jpg
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\warrior.jpg
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\MegaCardGame2000.exe.config
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\MegaCardGame2000.exe
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\MegaCardGame2000.pdb
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\BattleGround.g.cs
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MainWindow.g.cs
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\App.g.cs
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000_MarkupCompile.cache
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000_MarkupCompile.lref
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\BattleGround.baml
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MainWindow.baml
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.g.resources
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.Resources.resources
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.exe
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.pdb
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.csproj.CoreCompileInputs.cache
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\ClassLibrary.dll
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\ClassLibrary.pdb
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\goblin.jpg
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\logo.png
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\mage.jpg
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\pixie.jpg
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\thief.jpg
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\troll.jpg
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\bin\Debug\Resources\warrior.jpg
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\bin\Debug\MegaCardGame2000.exe.config
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\bin\Debug\MegaCardGame2000.exe
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\bin\Debug\MegaCardGame2000.pdb
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\bin\Debug\ClassLibrary.dll
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\bin\Debug\ClassLibrary.pdb
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\BattleGround.g.cs
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\GameResult.g.cs
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000_MarkupCompile.cache
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000_MarkupCompile.lref
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\BattleGround.baml
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\GameResult.baml
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.g.resources
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.Properties.Resources.resources
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.Resources.resources
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.exe
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\MegaCardGame2000.pdb
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\CharacterSelection.g.cs
+C:\Users\User\Desktop\MegaCardGame2000\MegaCardGame2000\obj\Debug\CharacterSelection.baml
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\ClassLibrary.dll
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\bin\Debug\ClassLibrary.pdb
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\CharacterSelection.g.cs
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\GameResult.g.cs
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\CharacterSelection.baml
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\MegaCardGame2000\obj\Debug\GameResult.baml

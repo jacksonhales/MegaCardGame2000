@@ -1,0 +1,161 @@
+﻿<Page x:Class="MegaCardGame2000.CharacterSelection"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MegaCardGame2000"
+      mc:Ignorable="d" 
+      Title="CharacterSelection" Background="White">
+
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="8*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Column="0" Grid.Row="0" Margin="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="9*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Image Grid.Column="0" Grid.Row="0" Source="pack://siteoforigin:,,,/Resources/Logo.png" Width="100" Height="100"/>
+            <Label Grid.Column="1" Grid.Row="0" VerticalAlignment="Center" FontSize="50">Mega Card Game 2000</Label>
+
+        </Grid>
+
+        <Grid Grid.Column="0" Grid.Row="1" Margin="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="6*"></ColumnDefinition>
+                <ColumnDefinition Width="6*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"></RowDefinition>
+                <RowDefinition Height="3*"></RowDefinition>
+                <RowDefinition Height="3*"></RowDefinition>
+                <RowDefinition Height="3*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Label Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">Select Character</Label>
+            <Border x:Name="bdrWarriorImage" Grid.Column="0" Grid.Row="1" BorderThickness="5" BorderBrush="Black">
+                <Button x:Name="btnWarrior" Click="btnWarrior_Click">
+                    <Image Source="pack://siteoforigin:,,,/Resources/warrior.jpg" Stretch="UniformToFill"/>
+                </Button>
+            </Border>
+
+            <Grid Grid.Column="1" Grid.Row="1">
+                <Border x:Name="bdrWarriorStats" Grid.Column="0" Grid.Row="0" BorderThickness="5" BorderBrush="Black">
+                    <TextBlock>
+                        <Label FontWeight="Bold">Warrior</Label><LineBreak />
+                        <Label>Health Points: 50</Label><LineBreak />
+                        <Label>Standard Attack: 10 Health Points</Label>
+                    </TextBlock>
+                </Border>
+            </Grid>
+            <Border x:Name="bdrThiefImage" Grid.Column="0" Grid.Row="2" BorderThickness="5" BorderBrush="Black">
+                <Button x:Name="btnThief"  Click="btnThief_Click">
+                    <Image  Source="pack://siteoforigin:,,,/Resources/thief.jpg" Stretch="UniformToFill"></Image>
+                </Button>
+            </Border>
+
+            <Grid Grid.Column="1" Grid.Row="2">
+
+                <Border x:Name="bdrThiefStats" Grid.Column="0" Grid.Row="0" BorderThickness="5" BorderBrush="Black">
+                    <TextBlock>
+                        <Label FontWeight="Bold">Thief</Label><LineBreak />
+                        <Label>Health Points: 50</Label><LineBreak />
+                        <Label>Standard Attack: 10 Health Points</Label><LineBreak />
+                    </TextBlock>
+                </Border>
+            </Grid>
+            <Border x:Name="bdrMageImage" Grid.Column="0" Grid.Row="3" BorderThickness="5" BorderBrush="Black">
+                <Button x:Name="btnMage"  Click="btnMage_Click">
+                    <Image  Source="pack://siteoforigin:,,,/Resources/mage.jpg" Stretch="UniformToFill"></Image>
+                </Button>
+            </Border>
+
+            <Grid Grid.Column="1" Grid.Row="3">
+                <Border x:Name="bdrMageStats" Grid.Column="0" Grid.Row="0" BorderThickness="5" BorderBrush="Black">
+                    <TextBlock>
+                        <Label FontWeight="Bold">Mage</Label><LineBreak />
+                        <Label>Health Points: 50</Label><LineBreak />
+                        <Label>Standard Attack: 10 Health Points</Label><LineBreak />
+                    </TextBlock>
+                </Border>
+            </Grid>
+            <Button x:Name="btnStartGame" Grid.Column="3" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Center" Click="btnStartGame_Click">Start Game</Button>
+
+            <Border x:Name="bdrWarriorSpecialAttack" Grid.Column="2" Grid.Row="1" BorderThickness="5" BorderBrush="Black">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"></ColumnDefinition>
+                        <ColumnDefinition Width="9*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"></RowDefinition>
+                        <RowDefinition Height="3*"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Column="0" Grid.ColumnSpan="2">
+                        Special Attack: <Bold>Berserk</Bold>
+                    </TextBlock>
+                    <TextBlock Grid.Column="1" Grid.Row="1">
+                        <TextBlock>- <Bold>1 in 3</Bold> success rate</TextBlock> <LineBreak />
+                        <TextBlock>- Successful Attack: <Bold>3x</Bold> normal damage</TextBlock> <LineBreak />
+                        <TextBlock>- Failed attempt: <Bold>Forfeit</Bold> current attack</TextBlock>
+                    </TextBlock>
+                </Grid>
+            </Border>
+
+            <Border x:Name="bdrThiefSpecialAttack" Grid.Column="2" Grid.Row="2" BorderThickness="5" BorderBrush="Black">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"></ColumnDefinition>
+                        <ColumnDefinition Width="9*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"></RowDefinition>
+                        <RowDefinition Height="3*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Column="0" Grid.ColumnSpan="2">
+                        Special Attack: <Bold>Backstab</Bold>
+                    </TextBlock>
+                    <TextBlock Grid.Column="1" Grid.Row="1">
+                        <TextBlock>- <Bold>1 in 3</Bold> success rate</TextBlock> <LineBreak />
+                        <TextBlock>- Successful Attack: <Bold>2x</Bold> normal damage</TextBlock> <LineBreak />
+                        <TextBlock>- Failed attempt: <Bold>0.5x</Bold> normal damage</TextBlock>
+                    </TextBlock>
+                </Grid>
+            </Border>
+            <Border x:Name="bdrMageSpecialAttack" Grid.Column="2" Grid.Row="3" BorderThickness="5" BorderBrush="Black">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"></ColumnDefinition>
+                        <ColumnDefinition Width="9*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"></RowDefinition>
+                        <RowDefinition Height="3*"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2">
+                        Special Attack: <Bold>Fireball</Bold>
+                    </TextBlock>
+                    <TextBlock Grid.Column="1" Grid.Row="1">
+                            <TextBlock>- <Bold>1 in 2</Bold> success rate</TextBlock> <LineBreak />
+                            <TextBlock>- Successful Attack: <Bold>4x</Bold> normal damage</TextBlock> <LineBreak />
+                            <TextBlock>- Failed attempt: <Bold>Mage</Bold> suffers standard attack</TextBlock>
+                        </TextBlock>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="NonPlayerCharacters.xsd" generated="2017-10-08T12:40:53">
+<NonPlayerCharacters>
+<NPCID>0</NPCID>
+<NPCName>Goblin</NPCName>
+<NPCHealthPoints>120</NPCHealthPoints>
+<NPCBaseDamage>15</NPCBaseDamage>
+<NPCImage>Goblin.jpg</NPCImage>
+</NonPlayerCharacters>
+<NonPlayerCharacters>
+<NPCID>1</NPCID>
+<NPCName>Troll</NPCName>
+<NPCHealthPoints>80</NPCHealthPoints>
+<NPCBaseDamage>20</NPCBaseDamage>
+<NPCImage>Troll.jpg</NPCImage>
+</NonPlayerCharacters>
+<NonPlayerCharacters>
+<NPCID>2</NPCID>
+<NPCName>Pixie</NPCName>
+<NPCHealthPoints>75</NPCHealthPoints>
+<NPCBaseDamage>10</NPCBaseDamage>
+<NPCImage>Pixie.jpg</NPCImage>
+</NonPlayerCharacters>
+</dataroot>

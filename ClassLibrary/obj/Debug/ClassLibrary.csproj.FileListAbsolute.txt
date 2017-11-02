@@ -1,0 +1,17 @@
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\me\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\User\Desktop\MegaCardGame2000\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MegaCardGame2000\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MegaCardGame2000\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\User\Desktop\MegaCardGame2000\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\User\Desktop\MegaCardGame2000\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\User\Desktop\MegaCardGame2000\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\ClassLibrary\obj\Debug\ClassLibrary.pdb

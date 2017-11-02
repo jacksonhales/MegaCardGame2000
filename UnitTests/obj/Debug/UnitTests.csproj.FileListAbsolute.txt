@@ -1,0 +1,27 @@
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\ClassLibrary.dll
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\ClassLibrary.pdb
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\User\OneDrive\Documents\Study\CertIV\Semester 2\Dev Ops Cluster 1\Individual Project\Victors Design\MegaCardGame2000\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\Resources\goblin.jpg
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\Resources\logo.png
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\Resources\mage.jpg
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\Resources\pixie.jpg
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\Resources\thief.jpg
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\Resources\troll.jpg
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\Resources\warrior.jpg
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\MegaCardGame2000.exe
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\MegaCardGame2000.pdb
+C:\Users\User\Desktop\MegaCardGame2000\UnitTests\bin\Debug\MegaCardGame2000.exe.config
